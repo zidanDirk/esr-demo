@@ -1,0 +1,28 @@
+{
+  "name": "flareact-project",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "A template for kickstarting a Flareact project",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "flareact dev",
+    "build": "flareact build",
+    "deploy": "flareact publish"
+  },
+  "dependencies": {
+    "flareact": "^1.5.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "css-loader": "5.2.6",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-loader": "4.2.0",
+    "postcss": "8.4.25",
+    "sass": "^1.63.6",
+    "sass-loader": "10.1.1",
+    "style-loader": "2.0.0",
+    "autoprefixer": "^9.8.6"
+  }
+}
