@@ -1,4 +1,4 @@
-name = "flareact-template"
+name = "esr-demo"
 type = "webpack"
 account_id = "70b70ed1ab20abf7c601f2abe2113ae5"
 workers_dev = true
